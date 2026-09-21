@@ -2,7 +2,7 @@
 
 I build modern web and mobile applications, with a strong focus on <strong>C# and .NET</strong> and cross-platform development using <strong>Flutter</strong>.
 
-https://portfolio-alpha-sand-20.vercel.app/
+[ltsatsi.app](https://portfolio-alpha-sand-20.vercel.app/)
 
 ---
 
